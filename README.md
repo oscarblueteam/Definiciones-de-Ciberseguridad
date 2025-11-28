@@ -20,32 +20,6 @@ Servir como base de estudio para certificaciones o formación técnica.
 /definiciones de la A a la Z
 
 
-Definición clara
-
-Ejemplos (si aplica)
-
-Contexto de uso
-
-Referencias o estándares relevantes
-
-🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas!
-Puedes colaborar de las siguientes formas:
-
-Añadiendo nuevas definiciones
-
-Corrigiendo o ampliando términos existentes
-
-Proponiendo categorías adicionales
-
-Reportando errores
-
-Para contribuir:
-
-Haz un fork del repositorio
-
-Crea una nueva rama
 
 Realiza tus cambios
 
