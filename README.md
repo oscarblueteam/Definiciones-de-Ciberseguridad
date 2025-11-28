@@ -18,9 +18,3 @@ Ayudar a quienes se inician en la disciplina.
 Servir como base de estudio para certificaciones o formación técnica.
 
 /definiciones de la A a la Z
-
-
-
-Realiza tus cambios
-
-Abre un Pull Request
