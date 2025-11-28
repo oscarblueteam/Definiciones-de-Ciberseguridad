@@ -17,34 +17,8 @@ Ayudar a quienes se inician en la disciplina.
 
 Servir como base de estudio para certificaciones o formación técnica.
 
-/definiciones
-    ├── A
-    ├── B
-    ├── C
-    ├── D
-    ├── E
-    ├── G
-    ├── H
-    ├── I
-    ├── J
-    ├── K
-    ├── L
-    ├── M
-    ├── N
-    ├── O
-    ├── P
-    ├── Q
-    ├── R
-    ├── S
-    ├── T
-    ├── U
-    ├── V
-    ├── W
-    ├── Y
-    ├── X        
-    └── Z
+/definiciones de la A a la Z
 
-    Cada entrada incluirá:
 
 Definición clara
 
